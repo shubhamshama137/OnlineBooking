@@ -34,5 +34,12 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/SpringRESTFULServicesOnlineShop/WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/SpringRESTFULServicesOnlineShop/WebContent/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/najabeen/Desktop/CapgPayroll/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/CapgPayroll/WebContent/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/najabeen/Desktop/apache-tomcat-8.0.30/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="/SpringRESTFULServicesOnlineShop/WebContent/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/SpringRESTFULServicesOnlineShop/WebContent/WEB-INF/lib/spring-tx-4.0.0.RELEASE.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

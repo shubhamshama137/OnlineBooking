@@ -22,6 +22,6 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>rest</servlet-name>
-		<url-pattern>/billing/*</url-pattern>
+		<url-pattern>/billing</url-pattern>
 	</servlet-mapping>
 </web-app>
